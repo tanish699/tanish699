@@ -138,10 +138,4 @@
 
 ###
 
-<div align="left" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tanish699/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@tanish699/0" alt="Medium post 1"  />
-  </a>
-</div>
-
 ###
