@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <sub>India · Building health-tech on iOS, learning Flutter</sub>
+  <sub>India · Building iOS, learning Flutter</sub>
 </p>
 
 ###
