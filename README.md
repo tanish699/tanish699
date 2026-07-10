@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on [MediSync](https://apps.apple.com/in/app/medisync-health-platform/id6760579694)<br><br>- 🌱 I’m currently learning Flutter<br><br>- 👨‍💻 All of my projects are available at https://workwithtanish.vercel.app<br><br>- 💬 Ask me about iOS dev, Swift, SwiftUI/UIKit<br><br>- 📫 How to reach me work.tanish23@gmail.com<br><br>- 📄 Know about my experiences https://tanish699.github.io/Tanish.resume/RESUME_TW.pdf</p>
+<p align="left">- 🔭 I’m currently working on [MediSync](https://apps.apple.com/in/app/medisync-health-platform/id6760579694)<br><br>- 🌱 I’m currently learning Flutter<br><br>- 👨‍💻 All of my projects are available at https://tanish.pro/<br><br>- 💬 Ask me about iOS dev, Swift, SwiftUI/UIKit<br><br>- 📫 How to reach me work.tanish23@gmail.com<br><br>- 📄 Know about my experiences https://tanish699.github.io/Tanish.resume/RESUME_TW.pdf</p>
 
 ###
 
